@@ -7,7 +7,10 @@
 <br>
 <br>
 
-# Diagramas de Conexion
+## Videos de los sensores
+https://drive.google.com/drive/folders/1yXbhBbZ8IfWtL_QEO_9hICZ8xYgfZECr?usp=sharing 
+
+## Diagramas de Conexion
 ### KY-001  Sensor de Temperatura
 <img src= "https://github.com/user-attachments/assets/b5b612cc-8946-4574-9afa-fb2a4525f8ae" wigth=100/>
 https://app.cirkitdesigner.com/project/0b3cfac0-758e-40fe-bd66-8cd904e5605f
@@ -47,7 +50,6 @@ https://app.cirkitdesigner.com/project/398e9ea2-c118-4989-bfd8-a5e2cde12307
 ### KY-011  Modulo Led 2 Colores 5mm  
 <img src= "https://github.com/user-attachments/assets/6c1272d7-71a6-466b-bd8d-adf06171cf90" wigth=100/>
 https://app.cirkitdesigner.com/project/af9948c4-4586-4744-86bb-fc36c8d869c4
-
 
 ### KY-012  Módulo Buzzer Activo  
 <img src= "https://github.com/user-attachments/assets/583d5c7d-bc1b-45e3-9dad-155d2443fd93" wigth=100/>
@@ -193,65 +195,17 @@ https://app.cirkitdesigner.com/project/ee7954a4-96b9-41b9-977c-958a6bfbc926
 <img src= "https://github.com/user-attachments/assets/3dbfb3b2-f5c7-4415-b438-0489bf383c30" wigth=100/>
 https://app.cirkitdesigner.com/project/455972ea-0db9-4681-aa9b-4deda2410ce1
 
+## Base de datos
 
 
 
+# Ejercicio de Soldadura
 
 
 
+# Teoria
+## Examen Quizziz
+<img src= "https://github.com/user-attachments/assets/bb7c657a-40bc-4f36-ae24-12a6d47e1e7c" wigth=100/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Teoria 
 ## NetAcad Python Fundamentals 2
-<img src= "https://github.com/user-attachments/assets/d6258093-83f9-4285-8ebb-691186417d02" wigth=100/>
-
-## Quiz presencial
-<img src= "https://github.com/user-attachments/assets/94d190e5-6211-452f-a71f-071d47f7a796" wigth=100/>
-
-<br>
-<br>
-
-# Practica
-## Ejercicio 1. Almacenamiento de Datos
-### Flujo en NODE-RED
-<img src= "https://github.com/user-attachments/assets/ab87fed1-b32c-4ba1-8a0d-f7cbf6681b1d" wigth=100/>
-<br>
-VIDEO,FLUJO Y CÓDIGO: 
-https://drive.google.com/drive/folders/1hQCAr7btfIzNgOxXXqEfhx_Pav_kdtVk?usp=sharing
-<br>
-
-## Ejercicio 2: Control de Actuadores
-### Flujo en NODE-RED
-<img src= "https://github.com/user-attachments/assets/ab87fed1-b32c-4ba1-8a0d-f7cbf6681b1d" wigth=100/>
-<br>
- VIDEO,FLUJO Y CÓDIGO: 
- https://drive.google.com/drive/folders/1tv5e5QFZ0sqThPy55ODSdn00g1GNn9c-?usp=sharing 
-<br>
-
-## Ejercicios 3 (soldadura):Circuito funcional en placa fenólica
-<img src="https://github.com/user-attachments/assets/95e69944-baa7-43e4-80a0-57a7628b8a77" wigth=100/>
-<br>
-
-## Ejercicios 4 (soldadura):Figura 2D o 3D soldada
-<img src="https://github.com/user-attachments/assets/48bf8fcc-888c-4de1-8d25-85e581300ba7" wigth=100/>
-<br>
-
-## Ejercicios en clase: Videos demostrativos
-<br>
-
-<br>
+<img src= "https://github.com/user-attachments/assets/ac14e2b1-7110-4a77-ba67-12db9ca8c779" wigth=100/>
