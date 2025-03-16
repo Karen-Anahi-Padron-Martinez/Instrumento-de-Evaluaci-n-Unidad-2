@@ -200,8 +200,7 @@ https://app.cirkitdesigner.com/project/455972ea-0db9-4681-aa9b-4deda2410ce1
 
 
 # Ejercicio de Soldadura
-
-
+https://drive.google.com/drive/folders/1OgdQ4GxQmQBjEUEpSXirt0tZhQStW5w1?usp=sharing
 
 # Teoria
 ## Examen Quizziz
