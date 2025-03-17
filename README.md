@@ -1,4 +1,5 @@
-![Imagen de WhatsApp 2025-03-16 a las 18 46 54_51baacf3](https://github.com/user-attachments/assets/66be3b54-e921-4abc-8490-5d77c6a2bdb2)# Instrumento-de-Evaluacion-Unidad-2
+
+# Instrumento-de-Evaluacion-Unidad-2
 # Asignatura. Aplicaciones IoT
 ### Karen Anahi Padron Martinez
  ### GDS0651
@@ -200,7 +201,7 @@ https://app.cirkitdesigner.com/project/455972ea-0db9-4681-aa9b-4deda2410ce1
 
 
 # Ejercicio de Soldadura
-<img src= "https://github.com/user-attachments/assets/3dbfb3b2-f5c7-4415-b438-0489bf383c30" wigth=100/>
+<img src= "https://github.com/user-attachments/assets/66be3b54-e921-4abc-8490-5d77c6a2bdb2" wigth=100/>
 https://drive.google.com/drive/folders/1OgdQ4GxQmQBjEUEpSXirt0tZhQStW5w1?usp=sharing
 
 # Teoria
